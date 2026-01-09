@@ -1,2 +1,4 @@
 # Minecraft-Datapacks
-A datapacks I wrote for minecraft
+A datapack I wrote for minecraft
+It also includes the resource pack needed.
+Works for 1.21.11
